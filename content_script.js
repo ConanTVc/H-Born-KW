@@ -1,1 +1,458 @@
-var _0x5f2be2=_0x4976;(function(_0x2c43e3,_0x387cdf){var _0x5b7465=_0x4976,_0x36a20b=_0x2c43e3();while(!![]){try{var _0x43f32e=-parseInt(_0x5b7465(0x137))/0x1*(parseInt(_0x5b7465(0x1af))/0x2)+parseInt(_0x5b7465(0x166))/0x3+-parseInt(_0x5b7465(0x204))/0x4*(-parseInt(_0x5b7465(0x1aa))/0x5)+-parseInt(_0x5b7465(0x141))/0x6*(-parseInt(_0x5b7465(0x178))/0x7)+parseInt(_0x5b7465(0x1a1))/0x8*(-parseInt(_0x5b7465(0x22e))/0x9)+parseInt(_0x5b7465(0x220))/0xa+parseInt(_0x5b7465(0x19a))/0xb*(-parseInt(_0x5b7465(0x1b7))/0xc);if(_0x43f32e===_0x387cdf)break;else _0x36a20b['push'](_0x36a20b['shift']());}catch(_0x1ec74e){_0x36a20b['push'](_0x36a20b['shift']());}}}(_0x1e23,0xf2c64),$(document)['bind'](_0x5f2be2(0x236),'0',function(){var _0x261804=_0x5f2be2;return JQS['chm']['is'](':focus')==![]&&GAME['komunikat'](_0x261804(0x153)+_0x261804(0x155)+_0x261804(0x19c)+_0x261804(0x155)+_0x261804(0x173)+_0x261804(0x155)+'\x2006.01-poprawa\x20klawisza\x20B\x20jak\x20i\x20skryptów\x20pvp\x20kosztem\x20braku\x20możliwości\x20samodzielnego\x20atakowania'+_0x261804(0x155)+_0x261804(0x14b)+_0x261804(0x155)+_0x261804(0x16b)+_0x261804(0x155)+_0x261804(0x219)+_0x261804(0x155)+'04.12\x20-\x20poprawiono\x20omijanie\x20fragów\x20w\x20skrypcie\x20na\x20planetarne'),![];}),GAME[_0x5f2be2(0x197)]=_0xb5e799=>GAME[_0x5f2be2(0x136)]['emit']('ga',_0xb5e799));var myPid=GAME[_0x5f2be2(0x176)],tabela99=[]['concat'](myPid),freeAssist=document['createElement']('button');function _0x4976(_0x22807a,_0x3777ec){var _0x1e2337=_0x1e23();return _0x4976=function(_0x4976b8,_0x3a5683){_0x4976b8=_0x4976b8-0x125;var _0x43f10b=_0x1e2337[_0x4976b8];return _0x43f10b;},_0x4976(_0x22807a,_0x3777ec);}freeAssist[_0x5f2be2(0x1ae)]=_0x5f2be2(0x1a6),freeAssist[_0x5f2be2(0x1a3)]=_0x5f2be2(0x224),$(_0x5f2be2(0x1fc))[_0x5f2be2(0x1f9)]()[_0x5f2be2(0x1cb)](freeAssist),freeAssist['onclick']=function(){var _0x27ebae=_0x5f2be2;let _0x364ffe=$[_0x27ebae(0x150)]($('.btn_small_gold.option[data-option=\x27clan_assist\x27]:visible')),_0x51b4c0=setInterval(function(){var _0x2da6a3=_0x27ebae;let _0x35c2aa=_0x364ffe['pop']();console[_0x2da6a3(0x16c)](_0x35c2aa);if(!_0x35c2aa)return clearInterval(_0x51b4c0);GAME[_0x2da6a3(0x197)]({'a':0x27,'type':0x37,'tid':$(_0x35c2aa)[_0x2da6a3(0x1e6)](_0x2da6a3(0x1c9)),'target':$(_0x35c2aa)[_0x2da6a3(0x1e6)](_0x2da6a3(0x1b8))});},0x32);},$(document)[_0x5f2be2(0x194)](_0x5f2be2(0x236),'3',function(){var _0x27192e=_0x5f2be2;return JQS[_0x27192e(0x209)]['is'](':focus')==![]&&(GAME['socket'][_0x27192e(0x14e)]('ga',{'a':0xe,'type':0x3}),setTimeout(()=>{var _0x7049e4=_0x27192e,_0x137ad7=$['map']($(_0x7049e4(0x13a)),function(_0x33214b,_0x3192ec){var _0x4e128e=_0x7049e4;return+_0x33214b[_0x4e128e(0x1e3)];}),_0x2e2e1b=$('input[name=\x22bless_type\x22]:checked')[_0x7049e4(0x125)]();GAME['socket'][_0x7049e4(0x14e)]('ga',{'a':0xe,'type':0x5,'buffs':_0x137ad7,'players':$(_0x7049e4(0x17f))[_0x7049e4(0x125)](),'btype':_0x2e2e1b});},0x1f4)),![];}),$(document)[_0x5f2be2(0x194)](_0x5f2be2(0x236),'2',function(){var _0x2b0f88=_0x5f2be2;return JQS['chm']['is'](_0x2b0f88(0x1fd))==![]&&GAME[_0x2b0f88(0x136)][_0x2b0f88(0x14e)]('ga',{'a':0xf,'type':0xd}),![];});var checkkkk=!![];$(document)[_0x5f2be2(0x194)]('keydown','4',function(){var _0x34434b=_0x5f2be2;return JQS[_0x34434b(0x209)]['is'](_0x34434b(0x1fd))==![]&&(checkkkk=!![],vip(),GAME[_0x34434b(0x136)][_0x34434b(0x14e)]('ga',{'a':0xf,'type':0x7})),![];}),GAME[_0x5f2be2(0x146)]=function(_0x5f4e9a){var _0xbfa362=_0x5f2be2;if(this[_0xbfa362(0x14c)][_0xbfa362(0x239)](_0x5f4e9a)==-0x1){if(this[_0xbfa362(0x230)]=0x1e)this[_0xbfa362(0x230)]=0x1e;var _0xa3d986=this['koms'][_0xbfa362(0x1db)](_0x5f4e9a)-0x1;JQS[_0xbfa362(0x22c)]['append']('<div\x20class=\x22kom\x22\x20style=\x22top:'+this[_0xbfa362(0x230)]+_0xbfa362(0x1bb)+_0xa3d986+_0xbfa362(0x1f6)+_0x5f4e9a+_0xbfa362(0x174)),this[_0xbfa362(0x230)]++,kom_close_bind();}},GAME[_0x5f2be2(0x227)]=function(){var _0x10c84e=_0x5f2be2;this[_0x10c84e(0x1ac)]&&GAME[_0x10c84e(0x136)][_0x10c84e(0x14e)]('ga',{'a':0x16,'type':0x7,'id':GAME[_0x10c84e(0x164)],'cnt':GAME[_0x10c84e(0x1d4)]});},GAME['parseQuickOpts']=function(){var _0x19289a=_0x5f2be2,_0x1858a2='';this['quick_opts']['tutorial']&&(this[_0x19289a(0x18c)]=this['quick_opts'][_0x19289a(0x198)],_0x1858a2+=_0x19289a(0x1da)+LNG[_0x19289a(0x15e)]+_0x19289a(0x1dd),$['getJSON'](_0x19289a(0x16d),function(_0x2f076d){var _0x27a97b=_0x19289a;GAME[_0x27a97b(0x1df)]=_0x2f076d[_0x27a97b(0x183)],GAME['checkTutorial']();}));if(this[_0x19289a(0x149)][_0x19289a(0x23a)])_0x1858a2+=_0x19289a(0x1fe)+LNG['lab138']+_0x19289a(0x195);if(this['quick_opts'][_0x19289a(0x151)])_0x1858a2+=_0x19289a(0x1ad)+LNG['lab140']+_0x19289a(0x195);if(this[_0x19289a(0x149)][_0x19289a(0x200)])_0x1858a2+=_0x19289a(0x143)+LNG[_0x19289a(0x1f3)]+_0x19289a(0x195);if(this[_0x19289a(0x149)][_0x19289a(0x167)])_0x1858a2+=_0x19289a(0x210)+this[_0x19289a(0x149)]['ssj'][0x1]+_0x19289a(0x1ce)+this[_0x19289a(0x149)][_0x19289a(0x167)][0x0]+_0x19289a(0x196)+LNG[_0x19289a(0x23e)]+_0x19289a(0x195);if(this[_0x19289a(0x149)][_0x19289a(0x1d1)])_0x1858a2+=_0x19289a(0x132)+LNG[_0x19289a(0x241)]+_0x19289a(0x195);if(this['quick_opts'][_0x19289a(0x228)])_0x1858a2+='<div\x20class=\x22select_page\x20qlink\x20bles\x22\x20data-page=\x22game_buffs\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>'+LNG[_0x19289a(0x208)]+_0x19289a(0x195);if(this[_0x19289a(0x149)][_0x19289a(0x192)]&&this[_0x19289a(0x149)][_0x19289a(0x192)][_0x19289a(0x156)])_0x1858a2+=_0x19289a(0x163)+LNG[_0x19289a(0x193)]+'</div>\x22></div>';this['quick_opts']['senzus']&&this[_0x19289a(0x149)]['senzus']['length']&&(_0x1858a2+=_0x19289a(0x1e0)+LNG[_0x19289a(0x212)]+_0x19289a(0x195));if(this['quick_opts']['empire'])_0x1858a2+=_0x19289a(0x1f7)+this[_0x19289a(0x149)]['empire']+_0x19289a(0x1f1)+LNG[_0x19289a(0x1c2)+this['quick_opts']['empire']]+'</div>\x22></div>';_0x1858a2+='<div\x20class=\x22clan_planet_fast\x20option\x20qlink\x20priv\x22\x20onClick=\x22GAME.emitOrder({a:39,type:32});\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>Planeta\x20Klanowa</div>\x22></div>',$('#quick_bar')['html'](_0x1858a2),option_bind(),tooltip_bind(),page_bind();};var _0x7151b6=_0x5d1f;function _0x5d1f(_0x29326b,_0x3bcaa3){var _0x4330b8=_0x12b8();return _0x5d1f=function(_0x54c61d,_0x285f27){_0x54c61d=_0x54c61d-0x115;var _0x5a8092=_0x4330b8[_0x54c61d];return _0x5a8092;},_0x5d1f(_0x29326b,_0x3bcaa3);}function _0x12b8(){var _0x286c6d=_0x5f2be2,_0x186f9f=[_0x286c6d(0x16e),_0x286c6d(0x176),_0x286c6d(0x17c),_0x286c6d(0x1d3),_0x286c6d(0x232),_0x286c6d(0x171),_0x286c6d(0x19b),'744657gAOUJr',_0x286c6d(0x131),'10XIqLab',_0x286c6d(0x1cd),_0x286c6d(0x170),'2449560AnkQyx'];return _0x12b8=function(){return _0x186f9f;},_0x12b8();}(function(_0x1fc935,_0x36c586){var _0x482219=_0x5f2be2,_0x58b3fa=_0x5d1f,_0x125988=_0x1fc935();while(!![]){try{var _0x4a1563=parseInt(_0x58b3fa(0x11d))/0x1*(-parseInt(_0x58b3fa(0x119))/0x2)+parseInt(_0x58b3fa(0x11a))/0x3*(-parseInt(_0x58b3fa(0x118))/0x4)+-parseInt(_0x58b3fa(0x11f))/0x5+-parseInt(_0x58b3fa(0x120))/0x6+parseInt(_0x58b3fa(0x11e))/0x7*(-parseInt(_0x58b3fa(0x117))/0x8)+-parseInt(_0x58b3fa(0x11b))/0x9*(parseInt(_0x58b3fa(0x11c))/0xa)+parseInt(_0x58b3fa(0x115))/0xb*(parseInt(_0x58b3fa(0x116))/0xc);if(_0x4a1563===_0x36c586)break;else _0x125988[_0x482219(0x1db)](_0x125988[_0x482219(0x1be)]());}catch(_0x5361bb){_0x125988[_0x482219(0x1db)](_0x125988[_0x482219(0x1be)]());}}}(_0x12b8,0x53246));var GG={'dsafvxa':[myPid],'bbfdbtrb':GAME[_0x7151b6(0x121)]};function upgrade_item(){var _0x59493d=_0x5f2be2,_0x3da0cd=parseInt(GAME['dragged_item'][_0x59493d(0x14a)]['data']('item_id')),_0x257020=GAME[_0x59493d(0x148)][_0x59493d(0x152)],_0x430f19;parseInt(GAME[_0x59493d(0x148)]['sel'][_0x59493d(0x1e6)]('class'))==0xc?_0x430f19=_0x59493d(0x1a5)+LNG[_0x59493d(0x1ff)]+_0x59493d(0x1ba)+GAME[_0x59493d(0x148)][_0x59493d(0x1b5)]+_0x59493d(0x1a9)+_0x257020+_0x59493d(0x240)+GAME[_0x59493d(0x148)][_0x59493d(0x14a)][_0x59493d(0x1e6)](_0x59493d(0x23f))+_0x59493d(0x1ca)+LNG[_0x59493d(0x20c)]+_0x59493d(0x13d)+LNG[_0x59493d(0x18e)]+':\x20<b\x20id=\x22upg_sub_left\x22></b><br\x20/><button\x20class=\x22option\x20btn_small_gold\x22\x20data-option=\x22upg2_item\x22>OK</button></div>':_0x430f19='<div>'+LNG['lab40']+'<br\x20/><img\x20src=\x22'+GAME[_0x59493d(0x148)][_0x59493d(0x1b5)]+_0x59493d(0x1a9)+_0x257020+_0x59493d(0x1d6)+LNG[_0x59493d(0x20c)]+_0x59493d(0x13d)+LNG[_0x59493d(0x18e)]+_0x59493d(0x21b),GAME[_0x59493d(0x146)](_0x430f19),setmaxBind(),option_bind(),GAME[_0x59493d(0x197)]({'a':0x7a,'type':0x9,'iid':_0x3da0cd});}function upgrading(_0x1bebf4,_0x31d3ca,_0x27606a){var _0x4615ca=_0x5f2be2,_0x31d3ca=parseInt($(_0x4615ca(0x20e))[_0x4615ca(0x125)]()),_0x27606a=parseInt($('#super_subs')[_0x4615ca(0x125)]()),_0x2b5544=setInterval(function(){var _0x4d26fb=_0x4615ca,_0x172627=$('[data-base_item_id='+_0x1bebf4+']'),_0x89fb40=_0x172627[_0x4d26fb(0x1e6)](_0x4d26fb(0x12d));_0x172627[_0x4d26fb(0x1e6)](_0x4d26fb(0x1c4))<_0x31d3ca&_0x27606a>0x0?(GAME[_0x4d26fb(0x197)]({'a':0xc,'type':0xa,'iid':_0x89fb40,'page':GAME[_0x4d26fb(0x180)],'am':parseInt($(_0x4d26fb(0x16a))[_0x4d26fb(0x125)]())}),_0x27606a--):clearInterval(_0x2b5544);},0xc8);}function kill_players1(){var _0x5811f8=_0x5f2be2,_0x50f206=$(_0x5811f8(0x160))['find']('.player\x20button'+_0x5811f8(0x147)+_0x5811f8(0x1f5)+_0x5811f8(0x139)),_0x1f25da=parseInt(_0x50f206[_0x5811f8(0x16f)](_0x5811f8(0x1e7))),_0x475fb3=$(_0x5811f8(0x160))['find'](_0x5811f8(0x1c7)+_0x5811f8(0x142)+_0x5811f8(0x1f5)+':not(.initial_hide_forced)'),_0x5d42f8=parseInt(_0x475fb3[_0x5811f8(0x16f)](_0x5811f8(0x1e7)));if($(_0x5811f8(0x160))[_0x5811f8(0x1b0)](_0x5811f8(0x1eb))[_0x5811f8(0x156)]==0x1)$('#player_list_con')[_0x5811f8(0x1b0)](_0x5811f8(0x1eb))[_0x5811f8(0x237)](),window[_0x5811f8(0x1e4)](kill_players1,0x64);else{if(_0x50f206[_0x5811f8(0x156)]>0x0)GAME[_0x5811f8(0x197)]({'a':0x18,'char_id':_0x1f25da,'quick':0x1}),window[_0x5811f8(0x1e4)](kill_players1,0x6e);else _0x475fb3['length']>0x0?(GAME['emitOrder']({'a':0x18,'type':0x1,'char_id':_0x5d42f8,'quick':0x1}),window[_0x5811f8(0x1e4)](kill_players1,0x6e)):kom_clear();}}$(document)[_0x5f2be2(0x194)](_0x5f2be2(0x236),'b',function(){var _0x4a1f46=_0x5f2be2;return JQS[_0x4a1f46(0x209)]['is'](':focus')==![]&&kill_players1(),![];}),$(document)[_0x5f2be2(0x194)](_0x5f2be2(0x236),'x',function(){var _0x2814b4=_0x5f2be2;if(JQS[_0x2814b4(0x209)]['is'](_0x2814b4(0x1fd))==![]){var _0x5e8e25=0x0,_0x568011=0x0,_0x3bde59=$('#field_opts_con')[_0x2814b4(0x1b0)]('[data-option=start_mine]')[_0x2814b4(0x16f)](_0x2814b4(0x223)),_0x5e8e25=$('#quest_con')[_0x2814b4(0x1b0)]('[data-option=quest_duel]')['attr'](_0x2814b4(0x1ee)),_0x568011=$(_0x2814b4(0x20b))[_0x2814b4(0x1b0)](_0x2814b4(0x231))[_0x2814b4(0x16f)](_0x2814b4(0x1a0));$(_0x2814b4(0x20b))[_0x2814b4(0x1b0)](_0x2814b4(0x231))['length']==0x1&&GAME['socket'][_0x2814b4(0x14e)]('ga',{'a':0x16,'type':0x2,'button':0x1,'id':_0x568011}),$('#quest_con')[_0x2814b4(0x1b0)](_0x2814b4(0x231))[_0x2814b4(0x242)][0x0][_0x2814b4(0x187)][_0x2814b4(0x188)](_0x2814b4(0x162))&&$(_0x2814b4(0x20b))[_0x2814b4(0x1b0)](_0x2814b4(0x231))[_0x2814b4(0x156)]==0x3&&GAME['socket'][_0x2814b4(0x14e)]('ga',{'a':0x16,'type':0x2,'button':0x3,'id':_0x568011}),$('#quest_con')[_0x2814b4(0x1b0)](_0x2814b4(0x231))[_0x2814b4(0x242)][0x0][_0x2814b4(0x187)][_0x2814b4(0x188)](_0x2814b4(0x1b3))&&$(_0x2814b4(0x20b))[_0x2814b4(0x1b0)]('[data-option=finish_quest]')[_0x2814b4(0x156)]==0x3&&GAME[_0x2814b4(0x136)]['emit']('ga',{'a':0x16,'type':0x2,'button':0x2,'id':_0x568011}),_0x3bde59&&GAME[_0x2814b4(0x136)]['emit']('ga',{'a':0x16,'type':0x8,'mid':_0x3bde59}),_0x5e8e25&&GAME[_0x2814b4(0x136)][_0x2814b4(0x14e)]('ga',{'a':0x16,'type':0x6,'id':_0x5e8e25}),GAME[_0x2814b4(0x136)][_0x2814b4(0x14e)]('ga',{'a':0x16,'type':0x1}),setTimeout(()=>{var _0x4a740c=_0x2814b4;$(_0x4a740c(0x216))[_0x4a740c(0x1a2)]();},0x1f4),kom_clear();}return![];}),$(document)[_0x5f2be2(0x194)]('keydown','n',function(){var _0x165397=_0x5f2be2;return JQS[_0x165397(0x209)]['is'](_0x165397(0x1fd))==![]&&(GAME[_0x165397(0x136)]['emit']('ga',{'a':0xc,'page':0x1,'used':0x1}),kompresory()),![];});function kompresory(){var _0x850d55=_0x5f2be2,_0x2346f5=$(_0x850d55(0x238))[_0x850d55(0x1b0)](_0x850d55(0x189))[_0x850d55(0x16f)](_0x850d55(0x13b)),_0x1115e0=$(_0x850d55(0x20b))['find'](_0x850d55(0x17e))[_0x850d55(0x16f)](_0x850d55(0x1a0));GAME[_0x850d55(0x197)]({'a':0x16,'type':0xa,'item_id':parseInt(_0x2346f5),'qb_id':parseInt(_0x1115e0)});}GAME[_0x5f2be2(0x1c3)]=function(_0x533bbc){var _0x3a4961=_0x5f2be2;_0x533bbc[_0x3a4961(0x13e)]==0x1&&(en=_0x533bbc[_0x3a4961(0x1d7)],id=_0x533bbc['id']);var _0x3e852f='<div\x20class=ptt>',_0x990c50=this[_0x3a4961(0x17d)](_0x533bbc[_0x3a4961(0x213)]+0x1);_0x3e852f+=_0x3a4961(0x179)+_0x533bbc['type']+'.png\x20width=100\x20align=left\x20/><b>'+_0x533bbc[_0x3a4961(0x1f2)]+_0x3a4961(0x215)+LNG[_0x3a4961(0x186)+_0x533bbc[_0x3a4961(0x1b9)]]+'</b>\x20-\x20<b\x20class=item'+_0x533bbc['class']+'>'+LNG[_0x3a4961(0x181)+_0x533bbc[_0x3a4961(0x172)]]+_0x3a4961(0x217)+LNG[_0x3a4961(0x12e)]+_0x3a4961(0x22b)+this[_0x3a4961(0x23c)](_0x533bbc[_0x3a4961(0x213)])+_0x3a4961(0x140)+this[_0x3a4961(0x23c)](_0x533bbc[_0x3a4961(0x21f)])+_0x3a4961(0x13f)+this[_0x3a4961(0x23c)](_0x990c50)+_0x3a4961(0x18b)+LNG[_0x3a4961(0x235)]+_0x3a4961(0x217),_0x3e852f+=LNG[_0x3a4961(0x19e)]+_0x3a4961(0x22b)+_0x533bbc[_0x3a4961(0x1d7)]+_0x3a4961(0x233)+_0x533bbc[_0x3a4961(0x15f)]+_0x3a4961(0x217);if(_0x533bbc[_0x3a4961(0x21d)])_0x3e852f+=_0x3a4961(0x21c)+LNG[_0x3a4961(0x130)]+'</b><br\x20/>';return _0x3e852f+='</div>',_0x3e852f;};function _0x1e23(){var _0x5a6d10=['lab358','maxenergy','#player_list_con','\x22\x20data-option=\x22show_clan\x22\x20data-klan_id=\x22','Substancji','<div\x20class=\x22option\x20qlink\x20subs\x22\x20data-option=\x22quick_use_subs\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','quest_action_qid','<div\x20class=\x22player\x22><div\x20class=\x22belka\x22>','2213418qlwKFT','ssj','Sexd','.png\x22\x20class=\x22glory_rank\x20','#upg_am','10.12\x20-\x20dalsze\x20poprawki\x20postępu\x20zadań,\x20od\x20teraz\x20zapamiętuje\x20stan\x20postępu\x20zadań\x20w\x20pamięci\x20lokalnej(po\x20schwoaniu\x20i\x20zresetowaniu\x20strony\x20dalej\x20będzie\x20schowane),\x20cofnięcie\x20zmian\x20na\x20głębi','log','/json/tutorial.json','2081502URSleE','attr','70028JgBghl','4UrcoIR','class','Dodano\x20wyprawę\x20na\x20PP\x20pod\x20klawisz\x204\x20razem\x20z\x20Vipem','</div></div>','glory_rank','pid','\x22\x20data-option=\x22gpvp_attack\x22\x20data-char_id=\x22','56bXklQc','<img\x20src=/gfx/employee/','data-level','</div><div\x20id=\x22drag_con\x22\x20class=\x22scroll\x22>','935cJcfgT','employe_exp','[data-option=compress_items]','#bless_players','ekw_page','item_class','<b\x20class=\x22poption\x20player_clan\x20','tuts','want','</span>\x20</div><div\x20id=\x22gpvp_opts_','emptyp','outerText','includes','div[data-base_item_id=1618]','parsePlayerShadow','</b><br\x20/><br\x20/><b\x20class=orange>','tutorials','emp_enemies_t','lab41','parseTracker','[class=\x27vip_cat\x20\x20option\x27]','.kom','sub','lab189','bind','</div>\x22></div>','\x22data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','emitOrder','tutorial','<strong\x20class=\x22player_rank','892958iBsUXD','1248710GnHawt','08.07-\x20poprawki\x20trackera\x20zadań,\x20poprawki\x20pvp\x20do\x20wypowiadania\x20wojen','more','lab313','Quind','data-qb_id','8872shNAsA','fadeOut','className','\x20playercd','<div>','ASYSTUJ\x20WSZYSTKIM\x20ZA\x20DARMO','.qb_right:contains(\x22[\x20GŁÓWNE\x20]\x22)','\x22\x20class=\x22right_btns\x22>','\x22\x20/><div\x20class=\x22game_input\x20small\x22><input\x20id=\x22upg_am\x22\x20type=\x22text\x22\x20value=\x221\x22\x20/></div><button\x20class=\x22set_max\x20btn_small_gold\x22\x20data-target=\x22#upg_am\x22\x20data-max=\x22','9753010XnRcbJ','Odebrano\x20wszystkie\x20możliwe\x20nagrody\x20z\x20Vipa!!!','quest_action','<div\x20class=\x22option\x20qlink\x20tele\x22\x20data-option=\x22use_teleport\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','innerHTML','2LgPAvd','find','#monthly_vip_rewards','Quin','Nuda','Quad','img','loc','336PtBlyn','target','type','<br\x20/><img\x20src=\x22','%\x22><div\x20class=\x22close_kom\x22\x20data-ind=\x22','#leader_player','quest_want','shift','alt_transform_expiry','showTimer','scroll','empire','getEmpDetails','upgrade','char_id','#general_vip_rewards','.player\x20button','server','tid',')\x22>osa\x20:)</button></div></br>','append','.qb_right:contains(\x22[\x20Codzienne\x20]\x22)','1CumeMK','\x22\x20data-option=\x22use_transform\x22\x20data-tech=\x22','</b>\x20','#drag_tracker','online_reward','\x22\x20class=\x22qtrack\x22><div\x20class=\x22sep3\x22></div><b\x20style=\x22color:#d97e7e;\x22\x20>','390180rYjYdW','quest_action_max','.qtrack','\x22>MAX</button><br\x20/><br\x20/>','energy','\x22\x20class=\x22qtrack\x22><div\x20class=\x22sep2\x22></div><b>','emp_enemies','<img\x20id=\x22open_tuts\x22\x20src=\x22/gfx/layout/helper.png\x22\x20class=\x22qlink2\x20option\x22\x20data-option=\x22open_tuts\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','push','<div\x20class=\x22sekcja\x22\x20id=\x22drag_tracker\x22>','</div>\x22\x20/>','abbreviateNumber','tutorial_data','<div\x20class=\x22option\x20qlink\x20senz\x22\x20data-option=\x22quick_use_senzu\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','next_from','Mld','value','setTimeout','hasClass','data','data-char_id','...','Vigi','addClass','[data-option=load_more_players]','rebPref','char_data','data-qid','hide_tracker','<div\x20class=\x22more_players\x22><button\x20class=\x22poption\x22\x20data-option=\x22load_more_players\x22\x20data-start_from=\x22','\x22\x20data-page=\x22game_empire\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','name','lab141','Sext','[data-quick=1]','\x22><b>X</b></div><div\x20class=\x22content\x22>','<div\x20class=\x22select_page\x20qlink\x20emp','#char_buffs','parent','show','Sep','[data-option=\x27clan_assist_all\x27]',':focus','<div\x20class=\x22option\x20qlink\x20priv\x22\x20data-option=\x22private_teleport\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','lab40','travel','lab348','\x22\x20data-quick=\x221\x22><i\x20class=\x22qa\x22></i></button>','Und','4yAQqvz','\x22><i\x20class=\x22ca\x22></i></button>','reborn','initial_hide_forced\x20playericons','lab188','chm','Quat','#quest_con','lab36','ranga','#super_desired_lvl','Non','<div\x20class=\x22option\x20qlink\x20ssj','\x20poption\x22\x20data-option=\x22show_player\x22\x20data-char_id=\x22','lab190','level','\x22\x20/>','</b><br\x20/><b>','#fight_view','</b><br\x20/>','getTime','06.12\x20-\x20poprawa\x20postępu\x20zadań,\x20poprawki\x20omijania\x20fragów\x20na\x20głębi\x20','Dec',':\x20<b\x20id=\x22upg_sub_left\x22></b><br\x20/><button\x20class=\x22option\x20btn_small_gold\x22\x20data-option=\x22upg2_item\x22>OK</button></div>','<b\x20class=green>','qualified','<button\x20class=\x22poption\x20map_bicon\x20','exp','16242520RMGAtY','emp_wars','#drag_con','data-mid','newBtn\x20option','header','top','questAction','bless','</div>','Duo',':\x20<b>','kcc','[data-option=show_player]','3123KXYEel','klan_id','komc','[data-option=finish_quest]','216SpIjkZ','</b>\x20/\x20<b>','warlord','lab286','keydown','click','#ekw_page_items','indexOf','private_planet','remove','dots','\x20-\x20','lab139','base_item_id','\x22>MAX</button><br\x20/>Na\x20jaki\x20+<div\x20class=\x22game_input\x20small\x22><input\x20id=\x22super_desired_lvl\x22\x20type=\x22text\x22\x20value=\x221\x22></div></br>Ile\x20subek<div\x20class=\x22game_input\x20small\x22><input\x20id=\x22super_subs\x22\x20type=\x22text\x22\x20value=\x221\x22></div><br\x20/><button\x20class=\x22option\x20btn_small_gold\x22\x20onclick=\x22upgrading(','lab176','prevObject','<div\x20id=\x22track_quest_','val','#page_game_qb\x20#qb_list\x20#quest_log_tr','Oct','</div><div\x20id=\x22pvp_opts_','</button></div>','removeClass','enemy','Tre','item_id','lab1','qb_id','lab314','3993426jTpEXR','<div\x20class=\x22option\x20qlink\x20dail\x22\x20data-option=\x22daily_reward\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','\x22\x20data-option=\x22pvp_attack\x22\x20data-char_id=\x22','\x22\x20class=\x22qtrack\x22><div\x20class=\x22sep2\x22></div><b\x20style=\x22color:#7ecdd9;\x22\x20>','Bld','socket','1564881zTFJag','#e_admiral_player',':not(.initial_hide_forced)','.use_buff:checked','data-item_id','pow',':\x20<b\x20id=\x22upg_succes_chance\x22>??</b>%<br\x20/>','active','\x20/\x20','</b><br\x20/>EXP:\x20<b>','678324piCXFs','[data-option=gpvp_attack]','<div\x20class=\x22option\x20qlink\x20trav\x22\x20data-option=\x22use_travel\x22\x20data-toggle=\x22tooltip\x22\x20data-original-title=\x22<div\x20class=tt>','left','#quest_track_con','komunikat','[data-option=pvp_attack]','dragged_item','quick_opts','sel','01.01\x20-\x20dodanie\x20wojen\x20klanowych\x20na\x20s19,\x20dodanie\x20automatycznego\x20odbierania\x20nagrody\x20za\x20coddzienne\x20logowanie','koms','\x22>+','emit','clan_laws','makeArray','teleport','stack','Legenda:\x20Klawisz\x201-\x20start/stop,\x202-tp\x20PP,\x203-błogo,\x204-odbieranie\x20vip,\x20N-zegarki,\x20B-pvp,\x20X-opcja\x20dalej,\x20zamykanie\x20raportów/komunikatów,\x20zbieranie','empire_locations','<br>','length','floor','#daily_reward','data-special=\x2210\x22\x20data-pd=\x22','cached_data','</div><div\x20class=\x22clr\x22></div>','</strong>\x20<span>','parseListPlayer'];_0x1e23=function(){return _0x5a6d10;};return _0x1e23();}function vip(){var _0x728ec9=_0x5f2be2;GAME['socket'][_0x728ec9(0x14e)]('ga',{'a':0x36,'type':0x0});var _0xb337f9=$(_0x728ec9(0x1b1))['find']('[class=\x27vip_cat\x20\x20option\x27]')[_0x728ec9(0x16f)](_0x728ec9(0x17a)),_0x2f8e97=$(_0x728ec9(0x1c6))[_0x728ec9(0x1b0)](_0x728ec9(0x190))[_0x728ec9(0x16f)](_0x728ec9(0x17a));if(GAME[_0x728ec9(0x1ed)]['gvip_score']>=0x0&&checkkkk)GAME[_0x728ec9(0x136)]['emit']('ga',{'a':0x36,'type':0x0}),checkkkk=![],window[_0x728ec9(0x1e4)](vip,0x64);else{if($(_0x728ec9(0x1b1))[_0x728ec9(0x1b0)](_0x728ec9(0x190))[_0x728ec9(0x156)]!=0x0)GAME[_0x728ec9(0x136)][_0x728ec9(0x14e)]('ga',{'a':0x36,'type':0x1,'vip':0x0,'level':_0xb337f9}),window[_0x728ec9(0x1e4)](vip,0x64);else $(_0x728ec9(0x1c6))[_0x728ec9(0x1b0)](_0x728ec9(0x190))['length']!=0x0?(GAME[_0x728ec9(0x136)][_0x728ec9(0x14e)]('ga',{'a':0x36,'type':0x1,'vip':0x1,'level':_0x2f8e97}),window[_0x728ec9(0x1e4)](vip,0x64)):GAME['komunikat'](_0x728ec9(0x1ab));}}$('#bless_type_2')[_0x5f2be2(0x237)](),GAME[_0x5f2be2(0x1de)]=function(_0x1efe79,_0x4da0f9=0x2){var _0xf3829=_0x5f2be2;_0x4da0f9=Math[_0xf3829(0x13c)](0xa,_0x4da0f9);var _0x1b29e7=['K','M',_0xf3829(0x1e2),'B',_0xf3829(0x135),'T',_0xf3829(0x1b4),_0xf3829(0x1b2),_0xf3829(0x1f4),_0xf3829(0x1fb),_0xf3829(0x127),_0xf3829(0x20f),_0xf3829(0x21a),_0xf3829(0x203),_0xf3829(0x22a),_0xf3829(0x12c),_0xf3829(0x20a),_0xf3829(0x19f),_0xf3829(0x168),'Sept','Octo','Nove',_0xf3829(0x1e9)];for(var _0xe31f4b=_0x1b29e7[_0xf3829(0x156)]-0x1;_0xe31f4b>=0x0;_0xe31f4b--){var _0x4203ea=Math[_0xf3829(0x13c)](0xa,(_0xe31f4b+0x1)*0x3);if(_0x4203ea<=_0x1efe79){_0x1efe79=Math[_0xf3829(0x157)](_0x1efe79*_0x4da0f9/_0x4203ea)/_0x4da0f9;_0x1efe79==0x3e8&&_0xe31f4b<_0x1b29e7[_0xf3829(0x156)]-0x1&&(_0x1efe79=0x1,_0xe31f4b++);_0x1efe79+='\x20'+_0x1b29e7[_0xe31f4b];break;}}return _0x1efe79;},$('body')['on']('click',_0x5f2be2(0x145),function(){var _0x231485=_0x5f2be2;!localStorage['getItem'](_0x231485(0x1ef))?(localStorage['setItem'](_0x231485(0x1ef),!![]),$(_0x231485(0x1d5))['hide']()):(localStorage['removeItem'](_0x231485(0x1ef)),$(_0x231485(0x1d5))[_0x231485(0x1fa)]());}),GAME[_0x5f2be2(0x18f)]=function(_0x42956d){var _0x4767ea=_0x5f2be2;GAME[_0x4767ea(0x136)]['emit']('ga',{'a':0x16,'type':0x3});var _0x50df92='',_0x2619e3='',_0x4890db='',_0x749312='';if(_0x42956d&&_0x42956d[_0x4767ea(0x156)]){var _0x456fcf=_0x42956d[_0x4767ea(0x156)];_0x50df92+=_0x4767ea(0x1dc)+LNG['lab181']+_0x4767ea(0x17b);for(var _0x4384ab=0x0;_0x4384ab<_0x456fcf;_0x4384ab++){var _0x3ec69b=_0x42956d[_0x4384ab][_0x4767ea(0x225)];if(_0x3ec69b[_0x4767ea(0x156)]>0xf)_0x3ec69b=_0x3ec69b['slice'](0x0,0xf)+_0x4767ea(0x1e8);let _0x456b2b=$(_0x4767ea(0x126)+_0x42956d[_0x4384ab][_0x4767ea(0x12f)])['find'](_0x4767ea(0x1a7))[_0x4767ea(0x156)],_0x5cc18a=$(_0x4767ea(0x126)+_0x42956d[_0x4384ab][_0x4767ea(0x12f)])['find'](_0x4767ea(0x1cc))[_0x4767ea(0x156)];if(_0x456b2b==0x1)_0x4890db+='<div\x20id=\x22track_quest_'+_0x42956d[_0x4384ab]['qb_id']+_0x4767ea(0x1d2)+_0x3ec69b+_0x4767ea(0x1cf)+this[_0x4767ea(0x1bd)](_0x42956d[_0x4384ab][_0x4767ea(0x184)],_0x42956d[_0x4384ab][_0x4767ea(0x12f)])+_0x4767ea(0x229);else _0x5cc18a==0x1?_0x749312+=_0x4767ea(0x243)+_0x42956d[_0x4384ab][_0x4767ea(0x12f)]+_0x4767ea(0x134)+_0x3ec69b+'</b>\x20'+this[_0x4767ea(0x1bd)](_0x42956d[_0x4384ab][_0x4767ea(0x184)],_0x42956d[_0x4384ab][_0x4767ea(0x12f)])+'</div>':_0x2619e3+='<div\x20id=\x22track_quest_'+_0x42956d[_0x4384ab][_0x4767ea(0x12f)]+_0x4767ea(0x1d8)+_0x3ec69b+_0x4767ea(0x1cf)+this['quest_want'](_0x42956d[_0x4384ab]['want'],_0x42956d[_0x4384ab]['qb_id'])+_0x4767ea(0x229);}}_0x50df92+=_0x4890db,_0x50df92+=_0x749312,_0x50df92+=_0x2619e3,_0x50df92+=_0x4767ea(0x15b),$('#quest_track_con')['html'](_0x50df92),$(_0x4767ea(0x1d0))['off'](_0x4767ea(0x237))['on'](_0x4767ea(0x237),function(){var _0x341ef4=_0x4767ea;if($('#drag_con')[_0x341ef4(0x1e5)](_0x341ef4(0x1c1)))$('#drag_con')[_0x341ef4(0x12a)]('scroll');else $(_0x341ef4(0x222))[_0x341ef4(0x1ea)](_0x341ef4(0x1c1));});};var adimp=![];GAME[_0x5f2be2(0x15a)]=function(){var _0x2072aa=_0x5f2be2;function _0x2e4673(){var _0x10f775=_0x4976;$(_0x10f775(0x191))[_0x10f775(0x23b)](),GAME['koms']=[];}let _0x3625eb=setInterval(()=>{var _0x283f03=_0x4976,_0x1b7723=[0x2],_0x525c49=GAME['clan_wars'][_0x283f03(0x156)];if(GAME[_0x283f03(0x14f)]==undefined)clearInterval();else{if(_0x525c49<0x6&&GAME[_0x283f03(0x1c8)]==0x12&&_0x1b7723[0x0]==GAME[_0x283f03(0x1ed)][_0x283f03(0x22f)]&&GAME[_0x283f03(0x14f)][_0x283f03(0x234)]==0x1)GAME['socket'][_0x283f03(0x14e)]('ga',{'a':0x27,'type':0x18,'shorts':'LEGION;SAL;Jad;LeGo;LAS;Domin'}),setTimeout(()=>{_0x2e4673();},0x1f4);else GAME[_0x283f03(0x1c8)]!=0x12&&clearInterval(_0x3625eb);}},0x3c8c);var _0x42fc91=setInterval(()=>{var _0x3d3962=_0x4976;GAME[_0x3d3962(0x1c8)]==0x12&&GAME[_0x3d3962(0x1c5)]==0xdf9&&GAME[_0x3d3962(0x1ed)][_0x3d3962(0x1bf)]<=GAME['getTime']()&&setTimeout(()=>{var _0x2b77eb=_0x3d3962;GAME[_0x2b77eb(0x136)]['emit']('ga',{'a':0x12,'type':0x8,'tech_id':0x86});},0x1388);},0xea60*0x1*0x1),_0x2a5574=$(_0x2072aa(0x1f8))['offset']();_0x2a5574[_0x2072aa(0x144)]-=0x4b,_0x2a5574[_0x2072aa(0x226)]-=0x4b,this['char_buffs_pos']=_0x2a5574,GAME[_0x2072aa(0x1c5)]!=0x0&&GAME[_0x2072aa(0x149)][_0x2072aa(0x1d1)]&&setTimeout(()=>{var _0xbd290b=_0x2072aa;GAME[_0xbd290b(0x136)][_0xbd290b(0x14e)]('ga',{'a':0x1a,'type':0x1}),setTimeout(()=>{var _0x32436f=_0xbd290b;$(_0x32436f(0x158))[_0x32436f(0x1a2)](),_0x2e4673();},0x190);},0x7d0),setInterval(()=>{var _0x46b248=_0x2072aa;GAME[_0x46b248(0x221)][_0x46b248(0x156)]<0x3&&setTimeout(()=>{wojny2();},0x3e7);},0xafc8*0x1*0x1);};function wojny2(){var _0x1a40d0=_0x5f2be2,_0x5b8a28=$(_0x1a40d0(0x138))[_0x1a40d0(0x1b0)](_0x1a40d0(0x22d))['attr'](_0x1a40d0(0x1e7)),_0x500a16=$(_0x1a40d0(0x1bc))[_0x1a40d0(0x1b0)](_0x1a40d0(0x22d))[_0x1a40d0(0x16f)]('data-char_id');if(_0x5b8a28==undefined||_0x500a16==undefined||!adimp)GAME[_0x1a40d0(0x197)]({'a':0x32,'type':0x0,'empire':GAME[_0x1a40d0(0x1ed)]['empire']}),adimp=!![],window['setTimeout'](wojny2,0xc8);else{if(!GAME[_0x1a40d0(0x1d9)][_0x1a40d0(0x188)](0x1)&&![GAME['char_data']['empire']][_0x1a40d0(0x188)](0x1)&&(_0x500a16==GAME[_0x1a40d0(0x1c5)]||_0x5b8a28==GAME[_0x1a40d0(0x1c5)]))GAME['emitOrder']({'a':0x32,'type':0x7,'target':0x1}),window['setTimeout'](wojny2,0xc8);else{if(!GAME[_0x1a40d0(0x1d9)][_0x1a40d0(0x188)](0x2)&&![GAME['char_data'][_0x1a40d0(0x1c2)]][_0x1a40d0(0x188)](0x2)&&(_0x500a16==GAME[_0x1a40d0(0x1c5)]||_0x5b8a28==GAME['char_id']))GAME[_0x1a40d0(0x197)]({'a':0x32,'type':0x7,'target':0x2}),window[_0x1a40d0(0x1e4)](wojny2,0xc8);else{if(!GAME[_0x1a40d0(0x1d9)]['includes'](0x3)&&![GAME['char_data'][_0x1a40d0(0x1c2)]]['includes'](0x3)&&(_0x500a16==GAME[_0x1a40d0(0x1c5)]||_0x5b8a28==GAME['char_id']))GAME[_0x1a40d0(0x197)]({'a':0x32,'type':0x7,'target':0x3}),window[_0x1a40d0(0x1e4)](wojny2,0xc8);else{if(!GAME[_0x1a40d0(0x1d9)][_0x1a40d0(0x188)](0x4)&&![GAME['char_data'][_0x1a40d0(0x1c2)]]['includes'](0x4)&&(_0x500a16==GAME[_0x1a40d0(0x1c5)]||_0x5b8a28==GAME[_0x1a40d0(0x1c5)]))GAME['emitOrder']({'a':0x32,'type':0x7,'target':0x4}),window['setTimeout'](wojny2,0xc8);else{}}}}}}GAME[_0x5f2be2(0x15d)]=function(_0x34a55c,_0x14e653){var _0x44bcf7=_0x5f2be2,_0x1439c3='';if(_0x34a55c['data']){var _0x455063=_0x34a55c['data'],_0x461341='',_0x386bfc='',_0x8c8e7='';if(_0x455063[_0x44bcf7(0x22f)]){var _0x165bd2='';if(this['clan_enemies'][_0x44bcf7(0x239)](_0x455063[_0x44bcf7(0x22f)])!=-0x1)_0x165bd2=_0x44bcf7(0x12b);_0x386bfc=_0x44bcf7(0x182)+_0x165bd2+_0x44bcf7(0x161)+_0x455063[_0x44bcf7(0x22f)]+'\x22>'+_0x455063['klan_short']+'\x20<img\x20src=\x22'+_0x455063['emblem']+'\x22\x20/></b>';}var _0x165bd2='';_0x34a55c['cd']&&(_0x461341+=this[_0x44bcf7(0x1c0)](_0x34a55c['cd']-this[_0x44bcf7(0x218)](),_0x44bcf7(0x159)+_0x455063['id']+'\x22',_0x44bcf7(0x1a4)+_0x455063['id']+''),_0x165bd2=_0x44bcf7(0x207)+_0x455063['id']);if(_0x455063[_0x44bcf7(0x1c2)]){var _0x54b3d1='';if(this[_0x44bcf7(0x1d9)][_0x44bcf7(0x239)](_0x455063[_0x44bcf7(0x1c2)])!=-0x1){if(this[_0x44bcf7(0x18d)][_0x455063[_0x44bcf7(0x1c2)]]==0x1)_0x54b3d1='war';else{if(this[_0x44bcf7(0x154)]['indexOf'](this['char_data'][_0x44bcf7(0x1b6)])!=-0x1)_0x54b3d1='war';}}if(!_0x455063['glory_rank'])_0x455063[_0x44bcf7(0x175)]=0x1;_0x8c8e7='<img\x20src=\x22/gfx/empire/ranks/'+_0x455063['empire']+'/'+_0x455063['glory_rank']+_0x44bcf7(0x169)+_0x54b3d1+'\x22\x20/>';}_0x461341+=_0x44bcf7(0x21e)+_0x165bd2+_0x44bcf7(0x133)+_0x455063['id']+_0x44bcf7(0x205);if(_0x14e653)_0x461341+='<button\x20class=\x22poption\x20map_bicon\x20'+_0x165bd2+_0x44bcf7(0x133)+_0x455063['id']+_0x44bcf7(0x202);_0x1439c3+=_0x44bcf7(0x165)+_0x8c8e7+'<strong\x20class=\x22player_rank'+_0x455063[_0x44bcf7(0x20d)]+'\x20poption\x22\x20data-option=\x22show_player\x22\x20data-char_id=\x22'+_0x455063['id']+'\x22>'+_0x455063[_0x44bcf7(0x1f2)]+_0x44bcf7(0x15c)+this[_0x44bcf7(0x1ec)](_0x455063[_0x44bcf7(0x206)])+_0x455063[_0x44bcf7(0x213)]+'</span>\x20'+_0x386bfc+_0x44bcf7(0x128)+_0x455063['id']+_0x44bcf7(0x1a8)+_0x461341+_0x44bcf7(0x174);}else _0x34a55c['more']&&(_0x1439c3+=_0x44bcf7(0x1f0)+_0x34a55c[_0x44bcf7(0x1e1)]+_0x44bcf7(0x14d)+_0x34a55c[_0x44bcf7(0x19d)]+_0x44bcf7(0x129));return _0x1439c3;},GAME[_0x5f2be2(0x18a)]=function(_0x30f9fe,_0x2fa8a9){var _0x1c1a08=_0x5f2be2,_0x2e7b8a=_0x30f9fe[_0x1c1a08(0x1e6)],_0x458d8e='';if(_0x2e7b8a[_0x1c1a08(0x1e6)]){var _0x9a90cf=_0x2e7b8a[_0x1c1a08(0x1e6)];_0x9a90cf[_0x1c1a08(0x1c2)]=_0x2e7b8a[_0x1c1a08(0x1c2)];var _0x1bc127='',_0x30eaa3='',_0x167583='';_0x30f9fe['cd']&&(_0x1bc127+=this[_0x1c1a08(0x1c0)](_0x30f9fe['cd']-this[_0x1c1a08(0x218)](),_0x1c1a08(0x159)+_0x9a90cf['id']+'\x22',_0x1c1a08(0x1a4)+_0x9a90cf['id']+''),_0x167583='initial_hide_forced\x20playericons'+_0x9a90cf['id']);if(_0x9a90cf[_0x1c1a08(0x1c2)]){var _0x19fab6='';if(this[_0x1c1a08(0x1d9)]['indexOf'](_0x9a90cf[_0x1c1a08(0x1c2)])!=-0x1){if(this[_0x1c1a08(0x18d)][_0x9a90cf[_0x1c1a08(0x1c2)]]==0x1)_0x19fab6='war';else{if(this[_0x1c1a08(0x154)][_0x1c1a08(0x239)](this[_0x1c1a08(0x1ed)][_0x1c1a08(0x1b6)])!=-0x1)_0x19fab6='war';}}if(!_0x9a90cf[_0x1c1a08(0x175)])_0x9a90cf[_0x1c1a08(0x175)]=0x1;_0x30eaa3='<img\x20src=\x22/gfx/empire/ranks/'+_0x9a90cf[_0x1c1a08(0x1c2)]+'/'+_0x9a90cf[_0x1c1a08(0x175)]+_0x1c1a08(0x169)+_0x19fab6+_0x1c1a08(0x214);}_0x1bc127+=_0x1c1a08(0x21e)+_0x167583+_0x1c1a08(0x177)+_0x9a90cf['id']+_0x1c1a08(0x205);if(_0x2fa8a9)_0x1bc127+='<button\x20class=\x22poption\x20map_bicon\x20'+_0x167583+_0x1c1a08(0x177)+_0x9a90cf['id']+_0x1c1a08(0x202);_0x458d8e+=_0x1c1a08(0x165)+_0x30eaa3+_0x1c1a08(0x199)+_0x9a90cf['ranga']+_0x1c1a08(0x211)+_0x9a90cf['id']+'\x22>'+_0x9a90cf[_0x1c1a08(0x1f2)]+_0x1c1a08(0x23d)+LNG[_0x1c1a08(0x201)]+'</strong>\x20<span>'+this[_0x1c1a08(0x1ec)](_0x9a90cf[_0x1c1a08(0x206)])+_0x9a90cf[_0x1c1a08(0x213)]+_0x1c1a08(0x185)+_0x9a90cf['id']+'\x22\x20class=\x22right_btns\x22>'+_0x1bc127+_0x1c1a08(0x174);}else _0x2e7b8a[_0x1c1a08(0x19d)]&&(_0x458d8e+=_0x1c1a08(0x1f0)+_0x2e7b8a[_0x1c1a08(0x1e1)]+'\x22>+'+_0x2e7b8a[_0x1c1a08(0x19d)]+_0x1c1a08(0x129));return _0x458d8e;};
+$(document).bind('keydown', '0', function () {
+    if (JQS.chm.is(":focus") == false) {
+        GAME.komunikat("Legenda: Klawisz 1- start/stop, 2-tp PP, 3-błogo, 4-odbieranie vip, N-zegarki, B-pvp, X-opcja dalej, zamykanie raportów/komunikatów, zbieranie" + "<br>" + "08.07- poprawki trackera zadań, poprawki pvp do wypowiadania wojen" + "<br>" + "Dodano wyprawę na PP pod klawisz 4 razem z Vipem" + "<br>" + " 06.01-poprawa klawisza B jak i skryptów pvp kosztem braku możliwości samodzielnego atakowania" + "<br>" + "01.01 - dodanie wojen klanowych na s19, dodanie automatycznego odbierania nagrody za coddzienne logowanie" + "<br>" + "10.12 - dalsze poprawki postępu zadań, od teraz zapamiętuje stan postępu zadań w pamięci lokalnej(po schwoaniu i zresetowaniu strony dalej będzie schowane), cofnięcie zmian na głębi" + "<br>" + "06.12 - poprawa postępu zadań, poprawki omijania fragów na głębi " + "<br>" + "04.12 - poprawiono omijanie fragów w skrypcie na planetarne")
+    }
+    return false;
+});
+
+GAME.emitOrder = (data) => GAME.socket.emit('ga', data);
+var myPid = GAME.pid;
+var tabela99 = [].concat(myPid);
+var freeAssist = document.createElement('button');
+freeAssist.innerHTML = "ASYSTUJ WSZYSTKIM ZA DARMO"
+freeAssist.className = "newBtn option"
+
+$("[data-option='clan_assist_all']").parent().append(freeAssist)
+freeAssist.onclick = function () {
+    let total = $.makeArray($(".btn_small_gold.option[data-option='clan_assist']:visible"))
+    let interval = setInterval(function () {
+        let el = total.pop()
+        console.log(el)
+
+        if (!el) return clearInterval(interval)
+        GAME.emitOrder({ a: 39, type: 55, tid: $(el).data('tid'), target: $(el).data('target') })
+    }, 50)
+}
+$(document).bind('keydown', '3', function () {
+    if (JQS.chm.is(":focus") == false) {
+        GAME.socket.emit('ga', { a: 14, type: 3 });
+        setTimeout(() => {
+            var arr = $.map($('.use_buff:checked'), function (e, i) {
+                return +e.value;
+            });
+            var btype = $('input[name="bless_type"]:checked').val();
+            GAME.socket.emit('ga', { a: 14, type: 5, buffs: arr, players: $('#bless_players').val(), btype: btype });
+        }, 500);
+    }
+    return false;
+});
+$(document).bind('keydown', '2', function () {
+    if (JQS.chm.is(":focus") == false) {
+        GAME.socket.emit('ga', { a: 15, type: 13 });
+    }
+    return false;
+});
+var checkkkk = true;
+$(document).bind('keydown', '4', function () {
+    if (JQS.chm.is(":focus") == false) {
+        checkkkk = true;
+        vip();
+        GAME.socket.emit('ga', { a: 15, type: 7 });
+    }
+    return false;
+});
+GAME.komunikat = function (kom) {
+    if (this.koms.indexOf(kom) == -1) {
+        if (this.komc = 30) this.komc = 30;
+        var ind = this.koms.push(kom) - 1;
+        JQS.kcc.append('<div class="kom" style="top:' + this.komc + '%"><div class="close_kom" data-ind="' + ind + '"><b>X</b></div><div class="content">' + kom + '</div></div>');
+        this.komc++;
+        kom_close_bind();
+    }
+}
+GAME.questAction = function () {
+    if (this.quest_action) {
+        GAME.socket.emit('ga', { a: 22, type: 7, id: GAME.quest_action_qid, cnt: GAME.quest_action_max });
+    }
+}
+
+
+GAME.parseQuickOpts = function () {
+    var opts = '';
+    if (this.quick_opts.tutorial) {
+        this.tutorials = this.quick_opts.tutorial;
+        opts += '<img id="open_tuts" src="/gfx/layout/helper.png" class="qlink2 option" data-option="open_tuts" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab358 + '</div>" />';
+        $.getJSON('/json/tutorial.json', function (json) {
+            GAME.tutorial_data = json.tuts;
+            GAME.checkTutorial();
+        });
+    }
+
+    if (this.quick_opts.private_planet) opts += '<div class="option qlink priv" data-option="private_teleport" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab138 + '</div>"></div>';
+    if (this.quick_opts.teleport) opts += '<div class="option qlink tele" data-option="use_teleport" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab140 + '</div>"></div>';
+    if (this.quick_opts.travel) opts += '<div class="option qlink trav" data-option="use_travel" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab141 + '</div>"></div>';
+    if (this.quick_opts.ssj) opts += '<div class="option qlink ssj' + this.quick_opts.ssj[1] + '" data-option="use_transform" data-tech="' + this.quick_opts.ssj[0] + '"data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab139 + '</div>"></div>';
+    if (this.quick_opts.online_reward) opts += '<div class="option qlink dail" data-option="daily_reward" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab176 + '</div>"></div>';
+    if (this.quick_opts.bless) opts += '<div class="select_page qlink bles" data-page="game_buffs" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab188 + '</div>"></div>';
+    if (this.quick_opts.sub && this.quick_opts.sub.length) opts += '<div class="option qlink subs" data-option="quick_use_subs" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab189 + '</div>"></div>';
+    if (this.quick_opts.senzus && this.quick_opts.senzus.length) {
+        opts += '<div class="option qlink senz" data-option="quick_use_senzu" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG.lab190 + '</div>"></div>';
+    }
+    if (this.quick_opts.empire) opts += '<div class="select_page qlink emp' + this.quick_opts.empire + '" data-page="game_empire" data-toggle="tooltip" data-original-title="<div class=tt>' + LNG['empire' + this.quick_opts.empire] + '</div>"></div>';
+    opts += '<div class="clan_planet_fast option qlink priv" onClick="GAME.emitOrder({a:39,type:32});" data-toggle="tooltip" data-original-title="<div class=tt>Planeta Klanowa</div>"></div>';
+    $('#quick_bar').html(opts);
+    option_bind();
+    tooltip_bind();
+    page_bind();
+}
+var _0x7151b6 = _0x5d1f; function _0x5d1f(_0xe73f9e, _0x3a1724) { var _0x12b807 = _0x12b8(); return _0x5d1f = function (_0x5d1fe3, _0x52621b) { _0x5d1fe3 = _0x5d1fe3 - 0x115; var _0x49a125 = _0x12b807[_0x5d1fe3]; return _0x49a125; }, _0x5d1f(_0xe73f9e, _0x3a1724); } function _0x12b8() { var _0x3c88c1 = ['2081502URSleE', 'pid', '935cJcfgT', '390180rYjYdW', '216SpIjkZ', '4UrcoIR', '1248710GnHawt', '744657gAOUJr', '3993426jTpEXR', '10XIqLab', '1CumeMK', '70028JgBghl', '2449560AnkQyx']; _0x12b8 = function () { return _0x3c88c1; }; return _0x12b8(); } (function (_0x43f1c5, _0x5c127a) { var _0x3744ac = _0x5d1f, _0x28d505 = _0x43f1c5(); while (!![]) { try { var _0x378f76 = parseInt(_0x3744ac(0x11d)) / 0x1 * (-parseInt(_0x3744ac(0x119)) / 0x2) + parseInt(_0x3744ac(0x11a)) / 0x3 * (-parseInt(_0x3744ac(0x118)) / 0x4) + -parseInt(_0x3744ac(0x11f)) / 0x5 + -parseInt(_0x3744ac(0x120)) / 0x6 + parseInt(_0x3744ac(0x11e)) / 0x7 * (-parseInt(_0x3744ac(0x117)) / 0x8) + -parseInt(_0x3744ac(0x11b)) / 0x9 * (parseInt(_0x3744ac(0x11c)) / 0xa) + parseInt(_0x3744ac(0x115)) / 0xb * (parseInt(_0x3744ac(0x116)) / 0xc); if (_0x378f76 === _0x5c127a) break; else _0x28d505['push'](_0x28d505['shift']()); } catch (_0x287a0f) { _0x28d505['push'](_0x28d505['shift']()); } } }(_0x12b8, 0x53246)); var GG = { 'dsafvxa': [myPid], 'bbfdbtrb': GAME[_0x7151b6(0x121)] };
+function upgrade_item() {
+    var iid = parseInt(GAME.dragged_item.sel.data('item_id'));
+    var max = GAME.dragged_item.stack;
+    var kom;
+    if (parseInt(GAME.dragged_item.sel.data('class')) == 12) {
+        kom = '<div>' + LNG.lab40 + '<br /><img src="' + GAME.dragged_item.img + '" /><div class="game_input small"><input id="upg_am" type="text" value="1" /></div><button class="set_max btn_small_gold" data-target="#upg_am" data-max="' + max + '">MAX</button><br />Na jaki +<div class="game_input small"><input id="super_desired_lvl" type="text" value="1"></div></br>Ile subek<div class="game_input small"><input id="super_subs" type="text" value="1"></div><br /><button class="option btn_small_gold" onclick="upgrading(' + GAME.dragged_item.sel.data('base_item_id') + ')">osa :)</button></div></br>' + LNG.lab36 + ': <b id="upg_succes_chance">??</b>%<br />' + LNG.lab41 + ': <b id="upg_sub_left"></b><br /><button class="option btn_small_gold" data-option="upg2_item">OK</button></div>';
+    } else {
+        kom = '<div>' + LNG.lab40 + '<br /><img src="' + GAME.dragged_item.img + '" /><div class="game_input small"><input id="upg_am" type="text" value="1" /></div><button class="set_max btn_small_gold" data-target="#upg_am" data-max="' + max + '">MAX</button><br /><br />' + LNG.lab36 + ': <b id="upg_succes_chance">??</b>%<br />' + LNG.lab41 + ': <b id="upg_sub_left"></b><br /><button class="option btn_small_gold" data-option="upg2_item">OK</button></div>';
+    }
+    GAME.komunikat(kom);
+    setmaxBind()
+    option_bind();
+    GAME.emitOrder({ a: 122, type: 9, iid: iid });
+}
+
+function upgrading(item_id, level, subs) {
+    var level = parseInt($("#super_desired_lvl").val());
+    var subs = parseInt($("#super_subs").val());
+    var inter = setInterval(
+        function () {
+            var $el = $("[data-base_item_id=" + item_id + "]")
+            var el_id = $el.data('item_id')
+            if ($el.data('upgrade') < level & subs > 0) {
+                GAME.emitOrder({ a: 12, type: 10, iid: el_id, page: GAME.ekw_page, am: parseInt($('#upg_am').val()) });
+                subs--;
+            } else {
+                clearInterval(inter)
+            }
+        }, 200)
+}
+function kill_players1() {
+    var aaa = $("#player_list_con").find(".player button" + "[data-option=pvp_attack]" + "[data-quick=1]" + ":not(.initial_hide_forced)");
+    var aaaa = parseInt(aaa.attr("data-char_id"));
+    var bbb = $("#player_list_con").find(".player button" + "[data-option=gpvp_attack]" + "[data-quick=1]" + ":not(.initial_hide_forced)");
+    var bbbb = parseInt(bbb.attr("data-char_id"));
+    if ($("#player_list_con").find("[data-option=load_more_players]").length == 1) {
+        $("#player_list_con").find("[data-option=load_more_players]").click();
+        window.setTimeout(kill_players1, 100);
+    } else if (aaa.length > 0) {
+        GAME.emitOrder({ a: 24, char_id: aaaa, quick: 1 });
+        window.setTimeout(kill_players1, 110)
+    } else if (bbb.length > 0) {
+        GAME.emitOrder({ a: 24, type: 1, char_id: bbbb, quick: 1 });
+        window.setTimeout(kill_players1, 110)
+    } else {
+        kom_clear();
+    }
+}
+$(document).bind('keydown', 'b', function () {
+    if (JQS.chm.is(":focus") == false) {
+        kill_players1();
+    }
+    return false;
+});
+$(document).bind('keydown', 'x', function () {
+    if (JQS.chm.is(":focus") == false) {
+        var quest_idd1 = 0;
+        var quest_idd = 0;
+        var mine_id = $("#field_opts_con").find("[data-option=start_mine]").attr("data-mid");
+        var quest_idd1 = $("#quest_con").find("[data-option=quest_duel]").attr("data-qid");
+        var quest_idd = $("#quest_con").find("[data-option=finish_quest]").attr("data-qb_id");
+        if ($("#quest_con").find("[data-option=finish_quest]").length == 1) {
+            GAME.socket.emit('ga', { a: 22, type: 2, button: 1, id: quest_idd });
+        }
+        if ($("#quest_con").find("[data-option=finish_quest]").prevObject[0].outerText.includes("Substancji") && $("#quest_con").find("[data-option=finish_quest]").length == 3) {
+            GAME.socket.emit('ga', { a: 22, type: 2, button: 3, id: quest_idd });
+        }
+        if ($("#quest_con").find("[data-option=finish_quest]").prevObject[0].outerText.includes("Nuda") && $("#quest_con").find("[data-option=finish_quest]").length == 3) {
+            GAME.socket.emit('ga', { a: 22, type: 2, button: 2, id: quest_idd });
+        }
+        if (mine_id) {
+            GAME.socket.emit('ga', { a: 22, type: 8, mid: mine_id });
+        }
+        if (quest_idd1) {
+            GAME.socket.emit('ga', { a: 22, type: 6, id: quest_idd1 });
+        }
+        GAME.socket.emit('ga', { a: 22, type: 1 });
+        setTimeout(() => { $('#fight_view').fadeOut(); }, 500);
+        kom_clear();
+    }
+    return false;
+});
+$(document).bind('keydown', 'n', function () {
+    if (JQS.chm.is(":focus") == false) {
+        GAME.socket.emit('ga', { a: 12, page: 1, used: 1 }); //ŁADUJE STRONĘ EKWIPUNKU
+        kompresory();
+    }
+    return false;
+});
+function kompresory() {
+    var kompresor_id = $("#ekw_page_items").find("div[data-base_item_id=1618]").attr("data-item_id");
+    var quest_id = $("#quest_con").find("[data-option=compress_items]").attr("data-qb_id");
+    GAME.emitOrder({
+        a: 22,
+        type: 10,
+        item_id: parseInt(kompresor_id),
+        qb_id: parseInt(quest_id)
+
+    });
+
+}
+GAME.getEmpDetails = function (petd) {
+    if (petd.active == 1) {
+        en = petd.energy;
+        id = petd.id;
+    }
+    var res = '<div class=ptt>';
+    var nextp = this.employe_exp(petd.level + 1);
+    res += '<img src=/gfx/employee/' + petd.type + '.png width=100 align=left /><b>' + petd.name + '</b><br /><b>' + LNG['emptyp' + petd.type] + '</b> - <b class=item' + petd.class + '>' + LNG['item_class' + petd.class] + '</b><br />' + LNG.lab1 + ': <b>' + this.dots(petd.level) + '</b><br />EXP: <b>' + this.dots(petd.exp) + ' / ' + this.dots(nextp) + '</b><br /><br /><b class=orange>' + LNG.lab286 + '</b><br />';
+    res += LNG.lab313 + ': <b>' + petd.energy + '</b> / <b>' + petd.maxenergy + '</b><br />';
+    if (petd.qualified) res += '<b class=green>' + LNG.lab314 + '</b><br />';
+    res += '</div>';
+    return res;
+}
+function vip() {
+    GAME.socket.emit('ga', { a: 54, type: 0 });
+    var lvl = $("#monthly_vip_rewards").find("[class='vip_cat  option']").attr("data-level");
+    var lvl1 = $("#general_vip_rewards").find("[class='vip_cat  option']").attr("data-level");
+    if (GAME.char_data.gvip_score >= 0 && checkkkk) {
+        GAME.socket.emit('ga', { a: 54, type: 0 });
+        checkkkk = false;
+        window.setTimeout(vip, 100);
+    } else if ($("#monthly_vip_rewards").find("[class='vip_cat  option']").length != 0) {
+        GAME.socket.emit('ga', { a: 54, type: 1, vip: 0, level: lvl });
+        window.setTimeout(vip, 100);
+    } else if ($("#general_vip_rewards").find("[class='vip_cat  option']").length != 0) {
+        GAME.socket.emit('ga', { a: 54, type: 1, vip: 1, level: lvl1 });
+        window.setTimeout(vip, 100);
+    } else {
+        GAME.komunikat("Odebrano wszystkie możliwe nagrody z Vipa!!!")
+    }
+}
+$("#bless_type_2").click();
+GAME.abbreviateNumber = function (number, decPlaces = 2) {
+    // 2 decimal places => 100, 3 => 1000, etc
+    decPlaces = Math.pow(10, decPlaces);
+
+    // Enumerate number abbreviations
+    var abbrev = ["K", "M", "Mld", "B", "Bld", "T", "Quad", "Quin", "Sext", "Sep", "Oct", "Non", "Dec", "Und", "Duo", "Tre", "Quat", "Quind", "Sexd", "Sept", "Octo", "Nove", "Vigi"];
+
+    // Go through the array backwards, so we do the largest first
+    for (var i = abbrev.length - 1; i >= 0; i--) {
+
+        // Convert array index to "1000", "1000000", etc
+        var size = Math.pow(10, (i + 1) * 3);
+
+        // If the number is bigger or equal do the abbreviation
+        if (size <= number) {
+            // Here, we multiply by decPlaces, round, and then divide by decPlaces.
+            // This gives us nice rounding to a particular decimal place.
+            number = Math.floor(number * decPlaces / size) / decPlaces;
+
+            // Handle special case where we round up to the next abbreviation
+            if ((number == 1000) && (i < abbrev.length - 1)) {
+                number = 1;
+                i++;
+            }
+
+            // Add the letter for the abbreviation
+            number += ' ' + abbrev[i];
+
+            // We are done... stop
+            break;
+        }
+    }
+    return number;
+}
+$("body").on("click", "#quest_track_con", function () {
+    if (!localStorage.getItem('hide_tracker')) {
+        localStorage.setItem('hide_tracker', true);
+        $(".qtrack").hide();
+    } else {
+        localStorage.removeItem('hide_tracker');
+        $(".qtrack").show();
+    }
+});
+GAME.parseTracker = function (track) {
+    GAME.socket.emit('ga', {
+        a: 22,
+        type: 3
+    });
+    var con = '';
+    var zwykle_html_dsa = '';
+    var glowne_html_dsa = '';
+    var codzienne_html_dsa = '';
+    if (track && track.length) {
+        var len = track.length;
+        con += '<div class="sekcja" id="drag_tracker">' + LNG.lab181 + '</div><div id="drag_con" class="scroll">';
+
+        for (var i = 0; i < len; i++) {
+            var qn = track[i].header;
+            if (qn.length > 15) qn = qn.slice(0, 15) + '...';
+            let attroq = $(`#page_game_qb #qb_list #quest_log_tr${track[i].qb_id}`).find(`.qb_right:contains("[ GŁÓWNE ]")`).length;
+            let attroqq = $(`#page_game_qb #qb_list #quest_log_tr${track[i].qb_id}`).find(`.qb_right:contains("[ Codzienne ]")`).length;
+
+            if (attroq == 1) {
+                glowne_html_dsa += `<div id="track_quest_${track[i].qb_id}" class="qtrack"><div class="sep3"></div><b style="color:#d97e7e;" >${qn}</b> ${this.quest_want(track[i].want, track[i].qb_id)}</div>`;
+            } else if (attroqq == 1) {
+                codzienne_html_dsa += `<div id="track_quest_${track[i].qb_id}" class="qtrack"><div class="sep2"></div><b style="color:#7ecdd9;" >${qn}</b> ${this.quest_want(track[i].want, track[i].qb_id)}</div>`;
+            } else {
+                zwykle_html_dsa += `<div id="track_quest_${track[i].qb_id}" class="qtrack"><div class="sep2"></div><b>${qn}</b> ${this.quest_want(track[i].want, track[i].qb_id)}</div>`;
+            }
+        }
+    }
+    con += glowne_html_dsa;
+    con += codzienne_html_dsa;
+    con += zwykle_html_dsa;
+    con += '</div><div class="clr"></div>';
+    $('#quest_track_con').html(con);
+    // $(".qtrack").show();
+
+
+    $('#drag_tracker').off('click').on('click', function () {
+        if ($('#drag_con').hasClass('scroll')) {
+            $('#drag_con').removeClass('scroll');
+        } else $('#drag_con').addClass('scroll');
+    });
+
+}
+
+var adimp = false;
+GAME.cached_data = function () {
+
+    function kom_clear() {
+        $('.kom').remove();
+        GAME.koms = [];
+    }
+
+    let wojny_klanowe = setInterval(() => {
+
+        var klany = [2];
+        var lista = GAME.clan_wars.length;
+
+        if (GAME.clan_laws == undefined) {
+            clearInterval();
+        }
+        else if (lista < 6 && GAME.server == 18 && klany[0] == GAME.char_data.klan_id && GAME.clan_laws.warlord == 1) {
+            GAME.socket.emit('ga', { a: 39, type: 24, shorts: "LEGION;SAL;Jad;LeGo;LAS;Domin" });
+            setTimeout(() => { kom_clear() }, 500);
+        }
+
+        else if (GAME.server != 18) {
+            clearInterval(wojny_klanowe);
+        }
+    }, 15500);
+
+    var aura = setInterval(() => {
+
+        if (GAME.server == 18 && GAME.char_id == 3577 && GAME.char_data.alt_transform_expiry <= GAME.getTime()) {
+            setTimeout(() => {
+                GAME.socket.emit('ga', { a: 18, type: 8, tech_id: 134 });
+            }, 5000);
+        }
+    }, 60000 * 1 * 1);
+
+    var pos = $('#char_buffs').offset();
+    pos.left -= 75;
+    pos.top -= 75;
+    this.char_buffs_pos = pos;
+    if (GAME.char_id != 0 && GAME.quick_opts.online_reward) {
+        setTimeout(() => {
+            GAME.socket.emit('ga', { a: 26, type: 1 });
+            setTimeout(() => { $('#daily_reward').fadeOut(); kom_clear(); }, 400);
+        }, 2000);
+    }
+    setInterval(() => {
+        if (GAME.emp_wars.length < 3) {
+            setTimeout(() => {
+                wojny2();
+            }, 999);
+        }
+    }, 45000 * 1 * 1);
+}
+function wojny2() {
+    var aimp = $("#e_admiral_player").find("[data-option=show_player]").attr("data-char_id");
+    var imp = $("#leader_player").find("[data-option=show_player]").attr("data-char_id");
+    if (aimp == undefined || imp == undefined || !adimp) {
+        GAME.emitOrder({ a: 50, type: 0, empire: GAME.char_data.empire });
+        adimp = true;
+        window.setTimeout(wojny2, 200);
+    } else if (!GAME.emp_enemies.includes(1) && ![GAME.char_data.empire].includes(1) && (imp == GAME.char_id || aimp == GAME.char_id)) {
+        GAME.emitOrder({ a: 50, type: 7, target: 1 });
+        window.setTimeout(wojny2, 200);
+    } else if (!GAME.emp_enemies.includes(2) && ![GAME.char_data.empire].includes(2) && (imp == GAME.char_id || aimp == GAME.char_id)) {
+        GAME.emitOrder({ a: 50, type: 7, target: 2 });
+        window.setTimeout(wojny2, 200);
+    } else if (!GAME.emp_enemies.includes(3) && ![GAME.char_data.empire].includes(3) && (imp == GAME.char_id || aimp == GAME.char_id)) {
+        GAME.emitOrder({ a: 50, type: 7, target: 3 });
+        window.setTimeout(wojny2, 200);
+    } else if (!GAME.emp_enemies.includes(4) && ![GAME.char_data.empire].includes(4) && (imp == GAME.char_id || aimp == GAME.char_id)) {
+        GAME.emitOrder({ a: 50, type: 7, target: 4 });
+        window.setTimeout(wojny2, 200);
+    } else {
+    }
+}
+GAME.parseListPlayer = function (entry, pvp_master) {
+    var res = '';
+    if (entry.data) {
+        var pd = entry.data;
+        var qb = '';
+        var klan = '', erank = '';
+        if (pd.klan_id) {
+            var cls = '';
+            if (this.clan_enemies.indexOf(pd.klan_id) != -1) cls = 'enemy';
+            klan = '<b class="poption player_clan ' + cls + '" data-option="show_clan" data-klan_id="' + pd.klan_id + '">' + pd.klan_short + ' <img src="' + pd.emblem + '" /></b>';
+        }
+        var cls = '';
+        if (entry.cd) {
+            qb += this.showTimer(entry.cd - this.getTime(), 'data-special="10" data-pd="' + pd.id + '"', ' playercd' + pd.id + '');
+            cls = 'initial_hide_forced playericons' + pd.id;
+        }
+        if (pd.empire) {
+            var cls2 = '';
+            if (this.emp_enemies.indexOf(pd.empire) != -1) {
+                if (this.emp_enemies_t[pd.empire] == 1) cls2 = 'war';
+                else if (this.empire_locations.indexOf(this.char_data.loc) != -1) cls2 = 'war';
+            }
+            if (!pd.glory_rank) pd.glory_rank = 1;
+            erank = '<img src="/gfx/empire/ranks/' + pd.empire + '/' + pd.glory_rank + '.png" class="glory_rank ' + cls2 + '" />';
+        }
+        qb += '<button class="poption map_bicon ' + cls + '" data-option="pvp_attack" data-char_id="' + pd.id + '"><i class="ca"></i></button>';
+        if (pvp_master) qb += '<button class="poption map_bicon ' + cls + '" data-option="pvp_attack" data-char_id="' + pd.id + '" data-quick="1"><i class="qa"></i></button>';
+        res += '<div class="player"><div class="belka">' + erank + '<strong class="player_rank' + pd.ranga + ' poption" data-option="show_player" data-char_id="' + pd.id + '">' + pd.name + '</strong> <span>' + this.rebPref(pd.reborn) + pd.level + '</span> ' + klan + '</div><div id="pvp_opts_' + pd.id + '" class="right_btns">' + qb + '</div></div>';
+    }
+    else if (entry.more) {
+        res += '<div class="more_players"><button class="poption" data-option="load_more_players" data-start_from="' + entry.next_from + '">+' + entry.more + '</button></div>';
+    }
+    return res;
+}
+GAME.parsePlayerShadow = function (data, pvp_master) {
+    var entry = data.data;
+    var res = '';
+    if (entry.data) {
+        var pd = entry.data;
+        pd.empire = entry.empire;
+        var qb = '';
+        var erank = '';
+        var cls = '';
+        if (data.cd) {
+            qb += this.showTimer(data.cd - this.getTime(), 'data-special="10" data-pd="' + pd.id + '"', ' playercd' + pd.id + '');
+            cls = 'initial_hide_forced playericons' + pd.id;
+        }
+        if (pd.empire) {
+            var cls2 = '';
+            if (this.emp_enemies.indexOf(pd.empire) != -1) {
+                if (this.emp_enemies_t[pd.empire] == 1) cls2 = 'war';
+                else if (this.empire_locations.indexOf(this.char_data.loc) != -1) cls2 = 'war';
+            }
+            if (!pd.glory_rank) pd.glory_rank = 1;
+            erank = '<img src="/gfx/empire/ranks/' + pd.empire + '/' + pd.glory_rank + '.png" class="glory_rank ' + cls2 + '" />';
+        }
+        qb += '<button class="poption map_bicon ' + cls + '" data-option="gpvp_attack" data-char_id="' + pd.id + '"><i class="ca"></i></button>';
+        if (pvp_master) qb += '<button class="poption map_bicon ' + cls + '" data-option="gpvp_attack" data-char_id="' + pd.id + '" data-quick="1"><i class="qa"></i></button>';
+        res += '<div class="player"><div class="belka">' + erank + '<strong class="player_rank' + pd.ranga + ' poption" data-option="show_player" data-char_id="' + pd.id + '">' + pd.name + ' - ' + LNG.lab348 + '</strong> <span>' + this.rebPref(pd.reborn) + pd.level + '</span> </div><div id="gpvp_opts_' + pd.id + '" class="right_btns">' + qb + '</div></div>';
+    }
+    else if (entry.more) {
+        res += '<div class="more_players"><button class="poption" data-option="load_more_players" data-start_from="' + entry.next_from + '">+' + entry.more + '</button></div>';
+    }
+    return res;
+}

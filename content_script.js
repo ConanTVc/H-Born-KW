@@ -263,7 +263,7 @@ GAME.abbreviateNumber = function (number, decPlaces = 2) {
     }
     return number;
 }
-$("body").on("click", "#quest_track_con", function () {
+/*$("body").on("click", "#quest_track_con", function () {
     if (!localStorage.getItem('hide_tracker')) {
         localStorage.setItem('hide_tracker', true);
         $(".qtrack").hide();
@@ -271,7 +271,7 @@ $("body").on("click", "#quest_track_con", function () {
         localStorage.removeItem('hide_tracker');
         $(".qtrack").show();
     }
-});
+});*/
 GAME.parseTracker = function (track) {
     GAME.socket.emit('ga', {
         a: 22,

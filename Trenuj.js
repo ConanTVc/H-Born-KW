@@ -1,9 +1,9 @@
 BOT = {
     chars: [],
-    timeout: 800,
+    timeout: 500,
 }
 ARC = {
-    timeout: 600,
+    timeout: 240,
 }
 
 GAME.emitOrder = (data) => GAME.socket.emit('ga', data);
@@ -115,7 +115,7 @@ ARC.Compare = function () {
 
 }
 ARC.Compare1 = function () {
-    let power_arr = [GAME.char_data.sila, GAME.char_data.szyb, GAME.char_data.wytrz, GAME.char_data.wta];
+    let power_arr = [GAME.char_data.sila, GAME.char_data.szyb, GAME.char_data.wytrz,GAME.char_data.moc,GAME.char_data.moc,GAME.char_data.wta];
     let weak_stat = power_arr.indexOf(Math.min(...power_arr)) + 1;
 
     if (GAME.timed < 2 && GAME.server_rates.trn_rate >= 10) {
